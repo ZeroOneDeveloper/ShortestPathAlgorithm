@@ -10,7 +10,7 @@ Genetic algorithms were explored to promote life-science understanding.
 
 
 ## Development Environment
-- Macbook Pro, Sonoma OS 14.0
+- Macbook Pro, Sonoma OS 14.2.1
 - Python 3.11.6
 
 ## Installation & Usage
